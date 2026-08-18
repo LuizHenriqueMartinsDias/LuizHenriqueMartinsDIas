@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz 👋</h1>
 
 <p align="center">
-Estudante de Inteligência Artificial | Python | Deep Learning | SQL
+Estudante de Inteligência Artificial | Python | Machine Learning | SQL | Dados
 </p>
 
 <p align="center">
