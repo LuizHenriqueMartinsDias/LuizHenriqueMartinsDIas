@@ -30,11 +30,7 @@ Implementação de Regressão Linear do zero, sem `scikit-learn`, com duas abord
 Solucionador automático para o Termo(Wordle brasileiro), combinando teoria da informação e deep learning. Escolhe cada palavra por maximização de entropia e usa uma Rede Neural Convolucional (CNN) treinada com TensorFlow/Keras para o reconhecimento visual das letras e cores do tabuleiro, com automação de navegador via Playwright e visão computacional com OpenCV.
 `Python` `TensorFlow/Keras` `OpenCV` `Playwright` `pandas` `NumPy`
 
-**Sistema para Agricultura Digital**
-Solução em Python voltada ao agronegócio, com foco em cadastro, organização e análise de informações agrícolas, incluindo manipulação de dados em JSON e menus interativos no terminal.
-`Python` `JSON`
-
-**Calculadora com Interface Gráfica**
+**[Calculadora com Interface Gráfica](https://github.com/LuizHenriqueMartinsDias/Calculator-App-with-Tkinter)**
 Calculadora com interface gráfica em Tkinter, com separação entre lógica e camada visual.
 `Python` `Tkinter` `POO`
 
