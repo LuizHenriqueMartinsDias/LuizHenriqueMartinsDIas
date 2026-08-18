@@ -38,13 +38,10 @@ Calculadora com interface gráfica em Tkinter, com separação entre lógica e c
 
 ### 🛠️ Tecnologias e ferramentas
 
-**Linguagens:** Python · SQL · JavaScript (básico)
-**IA e Dados:** TensorFlow/Keras · OpenCV · pandas · NumPy · Playwright
-**Web:** HTML · CSS
-**Banco de Dados:** SQL, modelagem e manipulação de dados
-**Controle de Versão:** Git · GitHub
-**Ferramentas:** VS Code · Pacote Office · Google Workspace
-
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </p>
+<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </p>
 ---
 
 ### 🌱 Áreas de interesse
