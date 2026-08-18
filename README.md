@@ -14,7 +14,7 @@ Estudante de Inteligência Artificial | Python | Machine Learning | SQL | Dados
 
 Sou estudante de Inteligência Artificial pela **FIAP** (conclusão prevista para o 2º semestre de 2027), em busca de uma oportunidade de estágio na área de tecnologia.
 
-Gosto de entender o que acontece "por baixo dos panos" das ferramentas que uso — por isso boa parte dos meus projetos pessoais são implementações do zero de algoritmos que normalmente a gente só importa de uma biblioteca. Tenho interesse em desenvolvimento de software, dados, inteligência artificial, banco de dados e soluções tecnológicas aplicadas a problemas reais.
+Gosto de entender o que acontece "por baixo dos panos" das ferramentas que uso por isso boa parte dos meus projetos pessoais são implementações do zero de algoritmos que normalmente a gente só importa de uma biblioteca. Tenho interesse em desenvolvimento de software, dados, inteligência artificial, banco de dados e soluções tecnológicas aplicadas a problemas reais.
 
 Perfil curioso, proativo e orientado ao aprendizado contínuo, com facilidade para me adaptar a novos ambientes e receber feedback.
 
