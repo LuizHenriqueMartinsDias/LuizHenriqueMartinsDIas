@@ -27,7 +27,7 @@ Implementação de Regressão Linear do zero, sem `scikit-learn`, com duas abord
 `Python` `pandas` `NumPy` `Matplotlib`
 
 **Solver de Termo com IA**
-Solucionador automático para o Termo (Wordle brasileiro), combinando teoria da informação e deep learning. Escolhe cada palavra por maximização de entropia e usa uma Rede Neural Convolucional (CNN) treinada com TensorFlow/Keras para o reconhecimento visual das letras e cores do tabuleiro, com automação de navegador via Playwright e visão computacional com OpenCV.
+**[Solucionador automático para o Termo](https://github.com/LuizHenriqueMartinsDias/termo-player) **(Wordle brasileiro), combinando teoria da informação e deep learning. Escolhe cada palavra por maximização de entropia e usa uma Rede Neural Convolucional (CNN) treinada com TensorFlow/Keras para o reconhecimento visual das letras e cores do tabuleiro, com automação de navegador via Playwright e visão computacional com OpenCV.
 `Python` `TensorFlow/Keras` `OpenCV` `Playwright` `pandas` `NumPy`
 
 **Sistema para Agricultura Digital**
