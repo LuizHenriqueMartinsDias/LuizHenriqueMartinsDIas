@@ -26,7 +26,7 @@ Perfil curioso, proativo e orientado ao aprendizado contínuo, com facilidade pa
 Implementação de Regressão Linear do zero, sem `scikit-learn`, com duas abordagens: solução fechada por Mínimos Quadrados Ordinários (OLS) e treinamento iterativo via Gradiente Descendente, com suporte a múltiplas variáveis. Inclui padronização de features, cálculo de R² e uma CLI para escolher o dataset e ajustar os hiperparâmetros de treino.
 `Python` `pandas` `NumPy` `Matplotlib`
 
-**[Solver de Termo com IA](https://github.com/LuizHenriqueMartinsDias/termo-player) **
+**[Solver de Termo com IA](https://github.com/LuizHenriqueMartinsDias/termo-player)**
 Solucionador automático para o Termo(Wordle brasileiro), combinando teoria da informação e deep learning. Escolhe cada palavra por maximização de entropia e usa uma Rede Neural Convolucional (CNN) treinada com TensorFlow/Keras para o reconhecimento visual das letras e cores do tabuleiro, com automação de navegador via Playwright e visão computacional com OpenCV.
 `Python` `TensorFlow/Keras` `OpenCV` `Playwright` `pandas` `NumPy`
 
